@@ -1,4 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Hanwen Ju. Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+My name is Hanwen Ju. I'm currently a senior student at McMaster University majoring Mathematics & Computer Science. I am currently seeking for 2023 Summer Data Science/Data Engineer internship opportunities.
+
 
 <h3>About me</h3>
 <p>
