@@ -1,9 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-My name is Hanwen Ju. I'm currently a senior student at McMaster University majoring Mathematics & Computer Science. I am currently seeking for 2023 Summer Data Science/Data Engineer internship opportunities.
+My name is Hanwen Ju. I'm currently a senior student at McMaster University majoring Mathematics & Computer Science. I am currently seeking for 2023 Summer Data Science/Data Engineer internship opportunities. Check out my projects and [GitHub repositories](https://github.com/hemonJuice?tab=repositories)
 
 
-<h3>About me</h3>
+### About me
+
+- 🎓 McMaster University | Mathematics & Computer Science
+- 📍 Living in Hamilton
+- 🤖 Love Machine Learning & Data Science
+- 🔎 Focusing on Unsupervised Learning(Clustering)
+- 📷 I am also a photographer
+- 🏸 I love playing badminton
+
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
