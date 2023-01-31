@@ -12,7 +12,7 @@ My name is Hanwen Ju. I'm currently a senior student at McMaster University majo
 - 📷 I am also a photographer
 - 🏸 I love playing badminton
 
-### Language and things I code with:
+### Languages and things I code with:
 
 
 <p>
@@ -42,3 +42,13 @@ My name is Hanwen Ju. I'm currently a senior student at McMaster University majo
   <img alt="Django" src="https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=Django&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+
+### Contact Information
+
+<p><a href="https://github.com/hemonJuice" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.instagram.com/_hemonn/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hanwen-ju/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+
+
+
+
